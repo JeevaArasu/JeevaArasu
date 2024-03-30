@@ -22,8 +22,8 @@ AWS | Infoblox | ServiceNow
 - Mentorship: Guiding and mentoring new team members.
 
 ##### <u>📬Let's Connect</u>
-- LinkedIn: www.linkedin.com/in/mathigo119645arasu
-- GitHub: GitHub Profile
+- LinkedIn: [Jeeva Tamilarasu on](www.linkedin.com/in/mathigo119645arasu)
+- GitHub: [GitHub Profile](https://github.com/JeevaArasu)
 - Email: jeevaarasu114@gmail.com
   
 Feel free to reach out for collaborations, discussions, or any inquiries.
